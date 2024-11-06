@@ -32,4 +32,4 @@ class Dec2Hex {
         System.out.println("Hexadecimal representation is: " + hexadecimal);
     }
 }
-// Task 6 adding a comment
+
